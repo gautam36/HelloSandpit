@@ -1,6 +1,6 @@
 package au.com.sanjay.helloCalculator;
 
-public interface calculatorInterface {
+public interface CalculatorInterface {
 	
 	public double add(double d1, double d2);
 	
